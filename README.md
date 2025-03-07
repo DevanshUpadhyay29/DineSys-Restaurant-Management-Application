@@ -1,1 +1,0 @@
-# DineSys-Restaurant-Management-Application
